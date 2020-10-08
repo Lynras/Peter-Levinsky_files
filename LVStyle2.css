@@ -1,0 +1,45 @@
+.item-a {
+  color: black;
+  font-weight: bold;
+  font-size: 0.5cm;
+}
+
+.col-sm {
+  margin: 0.5cm;
+}
+
+.container {
+  margin: auto;
+}
+
+.imgPeter {
+  border: 1px solid black;
+  border-radius: 1px;
+  padding: 1px;
+  width: 200px;
+}
+
+.imgFag {
+  border: solid black;
+  border-radius: 1px;
+  padding: 1px;
+  width: 300px;
+}
+
+.fagstyle {
+  font-size: 0.5cm;
+  font-weight: bold;
+  text-align: left;
+  margin: auto;
+  padding-left: 1cm;
+  color: black;
+}
+
+.informationtext {
+  font-size: 0.4cm;
+  font-weight: bold;
+  text-align: left;
+  margin: auto;
+  padding-left: 1cm;
+  color: black;
+}
